@@ -1,0 +1,56 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9; /* Light background for the form */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333; /* Darker text color */
+}
+
+.form-group {
+    margin-bottom: 15px; /* Space between form groups */
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-input {
+    width: 100%; /* Full-width inputs */
+    padding: 10px; /* Padding inside inputs */
+    border: 1px solid #ccc; /* Light border for inputs */
+    border-radius: 4px; /* Rounded corners */
+}
+
+.checkbox-group {
+    margin-bottom: 15px; /* Space before checkbox group */
+}
+
+.checkbox-group h3 {
+    margin-bottom: 10px; /* Space below checkbox group heading */
+}
+
+.btn {
+    background-color: #4CAF50; /* Green button background */
+    color: white; /* White text color for button */
+    padding: 10px 15px; /* Padding inside button */
+    border: none; /* No border */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+.btn:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+.testimonials {
+    margin-top: 30px; /* Space before testimonials */
+    border-top: 1px solid #ccc; /* Divider line above testimonials */
+    padding-top: 20px; /* Space above testimonials */
+}
